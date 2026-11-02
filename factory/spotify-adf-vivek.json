@@ -1,0 +1,15 @@
+{
+	"name": "spotify-adf-vivek",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "546877d6-669e-4ca4-b3ce-29e4d3eadd26",
+		"tenantId": "a10f6930-3064-42ec-b1f5-a9cf6f5d349c"
+	}
+}
